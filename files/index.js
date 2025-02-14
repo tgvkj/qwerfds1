@@ -6,8 +6,8 @@ const UUID = process.env.UUID || 'FA4B3946-5741-4A68-8653-8D0C8B7A81F4'; //
 const NEZHA_SERVER = process.env.NEZHA_SERVER || '';     
 const NEZHA_PORT = process.env.NEZHA_PORT || '';                     //
 const NEZHA_KEY = process.env.NEZHA_KEY || 'N9BVoBfucVIrIzCBt8';   //
-const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'ccc.kijuh.us.kg';     //
-const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiY2FlZjU3YzNkNTNmZjQyZjU3NzMyY2I2NGZiNThhOTQiLCJ0IjoiY2ZkNjAwMzktMTI1NC00YmVkLTk5OGItZmVjMmFiOGIzODBiIiwicyI6IllXRmlZMlUwTW1RdE9UVXhPQzAwWkdSakxUZzJNREF0WVRneU16UXhaamMyTWpobCJ9';
+const ARGO_DOMAIN = process.env.ARGO_DOMAIN || 'chosd.kijuh.us.kg';     //
+const ARGO_AUTH = process.env.ARGO_AUTH || 'eyJhIjoiY2FlZjU3YzNkNTNmZjQyZjU3NzMyY2I2NGZiNThhOTQiLCJ0IjoiMDNkMmIwMjItNTBiYS00ZjgyLThlNjQtMmI2MzE5MzM5NjE0IiwicyI6Ik1XSTJaVFUyWVRVdFpqQXdNQzAwTnprMkxXRTVOV1V0TnpabU1ERXpaVEk0TW1NeiJ9';
 const CFIP = process.env.CFIP || 'www.visa.com.tw';
 const NAME = process.env.NAME || 'Choreo';
 
